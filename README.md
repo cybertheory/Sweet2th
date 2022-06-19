@@ -29,7 +29,8 @@ Payment_type = ['Card', 'Cash']
 
 IsSmart - T or F
 IsVerified - T or F
-IsReal - T or F
+isReal - T or F
+flagCount - 0
 
 Owner=''
 
@@ -49,8 +50,9 @@ endpoint:
 getNearbyMachines - count, radius, location, returns count number of machine objects within a circular radius of location
 endpoint:
 
-update - id, owner, brand, (new data)
+updateMachine - uid,(new data)
 endpoint:
 
+flag - uid, flags machine as not real if flag is above 3 then machine has to be re-verified, updated. if reverified and not found the IsReal is set to false and machine is set to be deleted. 
 
 
