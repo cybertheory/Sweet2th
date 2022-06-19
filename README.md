@@ -31,8 +31,14 @@ Type:
 Payment_type = ['Card', 'Cash']
 
 IsSmart - T or F
+
+
 IsVerified - T or F
+
+
 isReal - T or F
+
+
 flagCount - 0
 
 Owner=''
