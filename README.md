@@ -1,4 +1,6 @@
-# Sweet2th
+
+# ![Untitled design](https://user-images.githubusercontent.com/27149047/174463403-2696e8d8-7c5b-4bb8-ab26-a7b84a664eaf.png)
+Sweet2th
 An API to track the location of nearby vending machines. This dataset is to be used on Apple and Google Maps. Please feel free to contribute to the dataset by using the API or Web App, email me about compensation to verify or collect data. (Under Construction)
 
 
