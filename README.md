@@ -1,5 +1,5 @@
 # Sweet2th
-A dataset and api to track the location of nearby vending machines. This dataset is to be used on Apple and Google Maps. Please feel free to contribute to the dataset by using the API or Web App, email me about compensation to verify or collect data. (Under Construction)
+An API to track the location of nearby vending machines. This dataset is to be used on Apple and Google Maps. Please feel free to contribute to the dataset by using the API or Web App, email me about compensation to verify or collect data. (Under Construction)
 
 
 ## WEB APP
